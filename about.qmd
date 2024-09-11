@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This site will showcase all of my projects, learning objectives,think-pieces as well as goals regarding Data Science!

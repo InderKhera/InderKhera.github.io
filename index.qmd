@@ -1,0 +1,11 @@
+---
+title: "Inder Khera's Website"
+---
+
+Introduction: I was born and raised in Vancouver and spent most of my childhood playing soccer. After finishing my ungrad in Economics at Simon Fraster University I worked for the last 3 years in the finance sector for a Vancouver based investment firm. 
+
+Although my career trajectory was going at a successful pace I always felt as if something was missing. Looking back after some self reflection I was able to realize I always enjoyed my Data Science courses the most while completeting my undergrad, and hoped to one day have a career in the field. 
+
+I can now proudly say I am aport of the 9th cohort of UBC MDS and taking the steps needed to make my goals come true!
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
